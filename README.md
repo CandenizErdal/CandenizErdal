@@ -11,6 +11,5 @@
     <a href="https://discord.com/users/259586807094575104" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/259586807094575104"></a>
 </div>
 
-<div align="center">
+## Github Stats
 ![visits](https://komarev.com/ghpvc/?username=CandenizErdal)
-</div>
